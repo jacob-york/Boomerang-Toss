@@ -1,0 +1,17 @@
+Simple and Complex menus are distinguished by the mode of user input.
+
+SIMPLE: 
+These are menus in which a specific key correlates 1-to-1 with a choice. It's identical to the system used by answering machines (ex: "For help, press ONE. To speak with an associate, press TWO...").
+
+
+COMPLEX: 
+These are menus in which a highlight bar is moved up and down to highlight/select an option, and then a key is pressed to confirm the selection.
+	These menus are very common in most modern games, but mine were based on the menu system in "LEGO Star Wars." <w> and <s> to move the bar, then <ENTER> is used to confirm.
+
+	How they work in my game:
+	Complex menus are made up of two parts:
+
+		Dynamic: the part of a complex menu through which the user moves the highlight bar. Each dynamic is built during runtime using the data from Options.txt
+
+		Static: the part of a complex menu that wraps around dynamic and doesn't change in appearance (hence the name). Each static is stored as Static.txt, with "|~" symbols used as placeholders to insert dynamic
+
