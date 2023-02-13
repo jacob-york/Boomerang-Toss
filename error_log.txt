@@ -1,0 +1,72 @@
+2021-05-21 14:47:04.489007 <class 'AttributeError'>: module 'winsound' has no attribute 'SNDS_NOSTOP'
+2021-05-21 17:10:58.153929 <class 'TypeError'>: 'NoneType' object is not callable
+2021-05-21 20:24:10.533884 <class 'FileNotFoundError'>: [Errno 2] No such file or directory: 'saves\\saves\\Save.bin'
+2021-05-21 20:44:49.861734 <class 'UnboundLocalError'>: local variable 'aim_up' referenced before assignment
+2021-05-21 20:53:38.363252 <class 'TypeError'>: expected str, bytes or os.PathLike object, not function
+2021-05-23 13:52:46.171717 <class 'AttributeError'>: 'Boomerang' object has no attribute 'down'
+2021-05-23 14:50:07.904747 <class 'AttributeError'>: type object 'Settings' has no attribute 'setting'
+2021-05-23 15:17:50.517727 <class 'TypeError'>: can only concatenate str (not "int") to str
+2021-05-23 15:51:57.110685 <class 'NameError'>: name 'Entity' is not defined
+2021-05-24 16:57:00.282197 <class 'NameError'>: name 'main_menu' is not defined
+2021-05-25 16:17:22.606614 <class 'NameError'>: name 'ESC' is not defined
+2021-05-25 19:00:18.947222 <class 'ValueError'>: invalid literal for int() with base 10: ' '
+2021-05-25 21:54:55.192567 <class 'AttributeError'>: 'range' object has no attribute 'pop'
+2021-05-25 21:55:24.020396 <class 'TypeError'>: TypeError: y only accepts an int or a float.
+2021-05-25 21:56:31.925967 <class 'IndexError'>: pop index out of range
+2021-05-25 22:01:28.302304 <class 'IndexError'>: pop index out of range
+2021-05-25 22:01:46.962743 <class 'IndexError'>: pop index out of range
+2021-05-25 22:03:23.987890 <class 'IndexError'>: pop index out of range
+2021-05-25 22:10:42.947079 <class 'NameError'>: name 'unfilled' is not defined
+2021-05-26 14:50:23.512894 <class 'TypeError'>: 'method' object is not subscriptable
+2021-05-28 19:33:34.144885 <class 'TypeError'>: __str__ returned non-string (type NoneType)
+2021-05-30 16:39:39.978205 <class 'KeyError'>: 'ESC'
+2021-05-30 19:53:44.864519 <class 'AttributeError'>: module 'Settings' has no attribute 'fps'
+2021-05-30 19:55:33.908189 <class 'TypeError'>: 'list' object cannot be interpreted as an integer
+2021-05-30 19:57:33.367011 <class 'AttributeError'>: module 'Settings' has no attribute 'fps'
+2021-05-31 14:56:38.199339 <class 'AttributeError'>: 'float' object has no attribute 'diag'
+2021-06-01 20:47:39.782327 <class 'NameError'>: name 'h' is not defined
+2021-06-01 20:48:26.712060 <class 'NameError'>: name 'h' is not defined
+2021-06-09 10:13:03.248135 <class 'FileNotFoundError'>: [Errno 2] No such file or directory: 'menus\\complex\\settingsactive.txt'
+2021-06-09 10:14:12.736208 <class 'ValueError'>: invalid literal for int() with base 10: '.5'
+2021-06-09 10:16:01.133186 <class 'TypeError'>: sequence item 0: expected str instance, int found
+2021-06-11 13:27:37.172037 <class 'IndexError'>: list index out of range
+2021-06-11 13:31:26.052383 <class 'IndexError'>: list index out of range
+2021-06-11 17:30:42.285586 <class 'TypeError'>: unsupported operand type(s) for +: 'GameMap' and 'str'
+2021-06-11 17:48:52.591760 <class 'KeyError'>: '<r>'
+2021-06-11 17:55:04.543649 <class 'KeyError'>: '<r>'
+2021-06-12 20:49:26.396031 <class 'IndexError'>: pop index out of range
+2021-06-12 20:49:56.487403 <class 'IndexError'>: pop index out of range
+2021-06-17 23:30:43.203527 <class 'NameError'>: name 'Settings' is not defined
+2021-06-17 23:33:40.078511 <class 'TypeError'>: '<' not supported between instances of 'int' and 'str'
+2021-06-17 23:35:12.969512 <class 'NameError'>: name 'Settings' is not defined
+2021-06-17 23:44:24.724170 <class 'NameError'>: name 'Settings' is not defined
+2021-06-17 23:44:42.490279 <class 'TypeError'>: '<' not supported between instances of 'int' and 'str'
+2021-06-17 23:44:51.949629 <class 'NameError'>: name 'Settings' is not defined
+2021-06-17 23:48:24.469863 <class 'TypeError'>: '<' not supported between instances of 'int' and 'str'
+2021-06-18 00:02:21.271605 <class 'TypeError'>: sequence item 0: expected str instance, int found
+2021-06-18 09:27:17.732840 <class 'TypeError'>: list indices must be integers or slices, not list
+2021-06-18 09:29:21.140341 <class 'TypeError'>: '<' not supported between instances of 'int' and 'str'
+2021-06-18 09:31:11.007520 <class 'TypeError'>: '>' not supported between instances of 'int' and 'str'
+2021-06-18 09:36:49.766514 <class 'TypeError'>: '<' not supported between instances of 'int' and 'str'
+2021-06-18 09:39:50.133186 <class 'TypeError'>: '<' not supported between instances of 'int' and 'str'
+2021-06-18 09:57:00.612209 <class 'TypeError'>: '>' not supported between instances of 'int' and 'str'
+2021-06-18 10:00:01.388743 <class 'TypeError'>: '>' not supported between instances of 'int' and 'str'
+2021-06-18 10:00:17.835595 <class 'TypeError'>: '<' not supported between instances of 'float' and 'str'
+2021-06-18 14:17:24.472238 <class 'TypeError'>: '<' not supported between instances of 'int' and 'str'
+2021-06-18 15:02:51.994094 <class 'TypeError'>: '<' not supported between instances of 'int' and 'str'
+2021-06-18 15:04:02.077200 <class 'TypeError'>: '>' not supported between instances of 'int' and 'str'
+2021-06-21 12:20:34.795185 <class 'AttributeError'>: 'GameMap' object has no attribute 'pop'
+2021-06-21 19:18:59.260895 <class 'NameError'>: name 'durations' is not defined
+2021-06-21 19:36:54.722724 <class 'IndexError'>: tuple index out of range
+2021-06-21 19:40:49.484628 <class 'IndexError'>: tuple index out of range
+2021-06-21 19:41:24.486801 <class 'IndexError'>: tuple index out of range
+2021-06-21 19:53:19.669005 <class 'IndexError'>: tuple index out of range
+2021-06-21 19:54:10.199498 <class 'IndexError'>: tuple index out of range
+2021-06-28 18:57:50.976343 <class 'NameError'>: name 'Colors' is not defined
+2021-06-28 19:05:13.739230 <class 'ValueError'>: <Enemy.Enemy object at 0x0000022A83781730> is not in list
+2021-08-16 20:01:03.551346 <class 'NameError'>: name 'settings' is not defined
+2021-08-16 20:04:32.403975 <class 'NameError'>: name 'settings' is not defined
+2021-08-25 11:30:40.795137 <class 'UnboundLocalError'>: local variable 'kbinput' referenced before assignment
+2021-08-25 11:31:18.724906 <class 'UnboundLocalError'>: local variable 'kbinput' referenced before assignment
+2021-08-25 11:33:20.531365 <class 'UnboundLocalError'>: local variable 'kbinput' referenced before assignment
+2021-08-25 11:33:32.973442 <class 'UnboundLocalError'>: local variable 'kbinput' referenced before assignment
